@@ -1,0 +1,75 @@
+{
+      "spectrum": [
+        {
+          "f_min": 193.50e12,
+          "f_max": 193.50e12,
+          "baud_rate": 32e9,
+          "slot_width": 50e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_1"
+        },
+        {
+          "f_min": 193.70e12,
+          "f_max": 193.70e12,
+          "baud_rate": 32e9,
+          "slot_width": 50e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_2"
+        },
+        {
+          "f_min": 193.75e12,
+          "f_max": 193.753e12,
+          "baud_rate": 32e9,
+          "slot_width": 50e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_3"
+        },
+        {
+          "f_min": 193.80e12,
+          "f_max": 193.80e12,
+          "baud_rate": 32e9,
+          "slot_width": 50e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_4"
+        },
+        {
+          "f_min": 193.9125e12,
+          "f_max": 193.9125e12,
+          "baud_rate": 32e9,
+          "slot_width": 50e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_5"
+        },
+        {
+          "f_min": 193.9875e12,
+          "f_max": 193.9875e12,
+          "baud_rate": 32e9,
+          "slot_width": 75e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_6"
+        },
+        {
+          "f_min": 194.40e12,
+          "f_max": 194.40e12,
+          "baud_rate": 32e9,
+          "slot_width": 50e9,
+          "delta_pdb": 0,
+          "roll_off": 0.2,
+          "tx_osnr": 37.5,
+          "label": "mode_7"
+        }
+      ]
+    }
+    
